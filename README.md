@@ -6,8 +6,8 @@ Progress-Indicators is written in Swift 5.0+. It can be built by Xcode 14.0 or l
 
 ### Photos Sample
 
-<img width="300" alt="gif" src="Pics/gif.gif"> <img width="300" alt="firstpic" src="Pics/firstpic.png">
-<img width="300" alt="secondpic" src="Pics/secondpic.png"> <img width="300" alt="thirdpic" src="Pics/thirdpic.png">
+<td><img width="300" alt="gif" src="Pics/gif.gif"></td> <td><img width="300" alt="firstpic" src="Pics/firstpic.png"></td>
+<td><img width="300" alt="secondpic" src="Pics/secondpic.png"></td> <td><img width="300" alt="thirdpic" src="Pics/thirdpic.png"></td>
 
 # Communication and Contribution
 
