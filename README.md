@@ -1,7 +1,7 @@
 # Progress-Indicators
 
-Creating Loading/Downloading/Error Indicators, Programmatically without Storyboard Using Swift 5.0+
-Progress-Indicators is written in Swift 5.0+. It can be built by Xcode 14.0 or later. Compatible with iOS 16.0+.
+A versatile Swift 5.0+ library to programmatically create loading, downloading, and error indicators without Storyboard.
+[JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
 
 ### Photos Sample
 
